@@ -1,0 +1,11 @@
+p em {
+    color: blue;
+}
+
+h3 ~ div > p {
+    margin-left: 20px;
+}
+
+h3 ~ p {
+    font-style: italic;
+}
